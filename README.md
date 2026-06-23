@@ -9,6 +9,4 @@ Blockchain investigator and product builder. I trace and recover stolen cryptocu
 - **Schrödinger Box**: an NFT that bundles heterogeneous assets across chains into one transferable object. Live on testnet, built over Wormhole.
 - **Atomic Barter**: intermediary-free, asset-to-asset swaps with no price denomination. On-chain escrow with atomic settlement.
 
-Investigation work, methodology, and references available on request.
-
 linkedin.com/in/sincronik : sincronik.it
