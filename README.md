@@ -10,6 +10,6 @@ What you see in this account is the other half: open Web3 R&D and protocol desig
 
 - **Schrödinger Box**: an NFT that bundles heterogeneous assets across chains into one transferable object. Live on testnet, built over Wormhole.
 - **Atomic Barter**: intermediary-free, asset-to-asset swaps with no price denomination. On-chain escrow with atomic settlement.
-- **OffshoreDao**: Older work (https://devpost.com/software/dynamic-nfts-to-achieve-cross-collection-interoperable-items)
+- **OffshoreDao**: Older work [Devpost](https://devpost.com/software/dynamic-nfts-to-achieve-cross-collection-interoperable-items)
 
 linkedin.com/in/sincronik : sincronik.it
