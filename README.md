@@ -8,7 +8,7 @@ What you see in this account is the other half: open Web3 R&D and protocol desig
 
 **Public work**
 
-- **Schrödinger Box**: an NFT that bundles heterogeneous assets across chains into one transferable object (A web3 transferable asset folder). Live on testnet, built over Wormhole.
+- **Schrödinger Box**: an NFT that bundles heterogeneous assets across chains into one transferable object (A web3 transferable asset folder). [Live on testnet](https://schrodinger-s-dao.github.io/Wormhole-schrodinger-box/), built over Wormhole.
 - **Atomic Barter**: intermediary-free, asset-to-asset swaps with no price denomination. On-chain escrow with atomic settlement. [Live on testnet.](https://bottegatecnologica.github.io/Atomic-Barter-Protocol/)
 - **OffshoreDao**: Older work [Devpost](https://devpost.com/software/dynamic-nfts-to-achieve-cross-collection-interoperable-items)
 
