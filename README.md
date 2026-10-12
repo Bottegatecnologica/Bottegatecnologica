@@ -12,4 +12,4 @@ What you see in this account is the other half: open Web3 R&D and protocol desig
 - **Atomic Barter**: intermediary-free, asset-to-asset swaps with no price denomination. On-chain escrow with atomic settlement. [Live on testnet.](https://bottegatecnologica.github.io/Atomic-Barter-Protocol/)
 - **OffshoreDao**: Older work [Devpost](https://devpost.com/software/dynamic-nfts-to-achieve-cross-collection-interoperable-items)
 
-linkedin.com/in/sincronik : sincronik.it
+linkedin.com/in/sincronik : anfossi.systems
